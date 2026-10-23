@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420">
+  <rect width="900" height="420" rx="20" fill="#0b0f17"/>
+  <rect x="20" y="20" width="860" height="380" rx="16" fill="#111827" stroke="#1f2937" stroke-width="2"/>
+  <text x="50" y="65" fill="#f9fafb" font-family="Inter, system-ui, sans-serif" font-size="24" font-weight="800">$CHIMP Fair Launch Tokenomics — 1,000,000,000 Total Supply</text>
+  <text x="50" y="95" fill="#9ca3af" font-family="Inter, system-ui, sans-serif" font-size="14">Built by @chimpxAI on @solana · Direct Fair Launch on @Raydium · 3 Years Live Product (Mojo AI)</text>
+  <rect x="50" y="130" width="400" height="54" rx="10" fill="#10b981"/>
+  <text x="65" y="163" fill="#052e16" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="800">50.0% Community Airdrops &amp; HOOTs Rewards (500,000,000 $CHIMP)</text>
+  <rect x="50" y="200" width="260" height="54" rx="10" fill="#f59e0b"/>
+  <text x="65" y="233" fill="#451a03" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="800">7.5% Public Sale (75M) — 100% UNLOCKED AT TGE</text>
+  <rect x="50" y="270" width="340" height="54" rx="10" fill="#3b82f6"/>
+  <text x="65" y="303" fill="#eff6ff" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="800">42.5% Ecosystem, Liquidity, Team &amp; Advisors (Team 100% LOCKED at Launch)</text>
+  <rect x="500" y="130" width="350" height="230" rx="14" fill="#0f172a" stroke="#334155" stroke-width="1.5"/>
+  <text x="525" y="168" fill="#fbbf24" font-family="Inter, system-ui, sans-serif" font-size="18" font-weight="800">Mojo AI Verified On-Chain Traction</text>
+  <text x="525" y="205" fill="#e5e7eb" font-family="Inter, system-ui, sans-serif" font-size="15" font-weight="600">• 56,000+ Unique Solana Wallets</text>
+  <text x="525" y="238" fill="#e5e7eb" font-family="Inter, system-ui, sans-serif" font-size="15" font-weight="600">• 1,000,000+ AI Requests Processed</text>
+  <text x="525" y="271" fill="#e5e7eb" font-family="Inter, system-ui, sans-serif" font-size="15" font-weight="600">• $3.9M+ DeFi Volume Routed</text>
+  <text x="525" y="304" fill="#10b981" font-family="Inter, system-ui, sans-serif" font-size="15" font-weight="700">• Soft Cap + Pro-Rata Overflow Refund</text>
+  <text x="525" y="337" fill="#38bdf8" font-family="Inter, system-ui, sans-serif" font-size="14">• Zero Bot Sniping Advantage on Raydium</text>
+</svg>
